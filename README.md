@@ -1,29 +1,50 @@
-# HisabDo AI/ML Internship – Day 1
+# 🚀 HisabDo AI/ML Internship
 
-## Student Information System
+Welcome to my **HisabDo AI/ML Internship** repository. This repository contains my daily tasks, projects, and learning materials completed throughout the internship.
 
-This project was developed as part of the **HisabDo AI/ML Internship Bootcamp (Day 1)**. It demonstrates the basic concepts of Python programming.
+## 📚 Repository Structure
 
-### Features
-
-* User input
-* Variables
-* Lists
-* if/else conditions
-* Loops
-* Functions
-* Formatted output
-
-### Files
-
-* `student_information_system.py` – Python project
-* `learning_notes.md` – AI, ML, Deep Learning, and Generative AI notes
-* `requirements.txt` – Project requirements
-
-### Run the Project
-
-```bash
-python student_information_system.py
+```text
+HisabDo_AI-ML_Internship/
+│
+├── Day-1/
+├── Day-2/
+├── Day-3/
+├── ...
+└── README.md
 ```
 
-**Author:** Syed Ali Hassan
+## 🎯 Objectives
+
+* Learn Python programming fundamentals
+* Build a strong foundation in data handling
+* Work with Pandas for data analysis
+* Explore Machine Learning and Artificial Intelligence concepts
+* Develop hands-on AI/ML projects
+* Practice Git and GitHub for version control
+
+## 🛠 Technologies Used
+
+* Python
+* Pandas
+* Git
+* GitHub
+
+## 📅 Progress
+
+| Day   | Topic                             | Status |
+| ----- | --------------------------------- | :----: |
+| Day 1 | Python Fundamentals & AI Basics   |    ✅   |
+| Day 2 | Student Data Analysis with Pandas |    ✅   |
+| Day 3 | Coming Soon                       |    ⏳   |
+
+## 👨‍💻 Author
+
+**Syede Ali Hassan**
+
+* BS Software Engineering Graduate
+* AI/ML Engineer
+
+---
+
+This repository will be updated regularly as I complete each day's internship tasks and projects.

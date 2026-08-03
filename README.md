@@ -27,6 +27,7 @@ HisabDo_AI-ML_Internship/
 
 * Python
 * Pandas
+* Matplotlib
 * Git
 * GitHub
 
@@ -36,7 +37,8 @@ HisabDo_AI-ML_Internship/
 | ----- | --------------------------------- | :----: |
 | Day 1 | Python Fundamentals & AI Basics   |    ✅   |
 | Day 2 | Student Data Analysis with Pandas |    ✅   |
-| Day 3 | Coming Soon                       |    ⏳   |
+| Day 3 | Student Performance Analysis      |    ✅   |
+| Day 4 | Coming Soon                       |    ⏳   |
 
 ## 👨‍💻 Author
 

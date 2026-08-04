@@ -19,6 +19,7 @@ HisabDo_AI-ML_Internship/
 * Learn Python programming fundamentals
 * Build a strong foundation in data handling
 * Work with Pandas for data analysis
+* Work with Matplotlib for Visualization
 * Explore Machine Learning and Artificial Intelligence concepts
 * Develop hands-on AI/ML projects
 * Practice Git and GitHub for version control
@@ -28,6 +29,7 @@ HisabDo_AI-ML_Internship/
 * Python
 * Pandas
 * Matplotlib
+* Logistic Regression
 * Git
 * GitHub
 
@@ -38,7 +40,8 @@ HisabDo_AI-ML_Internship/
 | Day 1 | Python Fundamentals & AI Basics   |    ✅   |
 | Day 2 | Student Data Analysis with Pandas |    ✅   |
 | Day 3 | Student Performance Analysis      |    ✅   |
-| Day 4 | Coming Soon                       |    ⏳   |
+| Day 4 | Student Performance Prediction    |    ✅   |
+| Day 5 | Coming Soon                       |    ⏳   |
 
 ## 👨‍💻 Author
 

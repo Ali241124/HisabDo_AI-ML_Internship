@@ -29,6 +29,7 @@ HisabDo_AI-ML_Internship/
 * Python
 * Pandas
 * Matplotlib
+* Scikit-Learn
 * Logistic Regression
 * Git
 * GitHub

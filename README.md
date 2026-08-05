@@ -30,6 +30,7 @@ HisabDo_AI-ML_Internship/
 * Pandas
 * Matplotlib
 * Scikit-Learn
+* openpyxl
 * Logistic Regression
 * Git
 * GitHub
@@ -42,7 +43,8 @@ HisabDo_AI-ML_Internship/
 | Day 2 | Student Data Analysis with Pandas |    ✅   |
 | Day 3 | Student Performance Analysis      |    ✅   |
 | Day 4 | Student Performance Prediction    |    ✅   |
-| Day 5 | Coming Soon                       |    ⏳   |
+| Day 5 | Student Performance Prediction - 2|    ✅   |
+| Day 6 | Coming Soon                       |    ⏳   |
 
 ## 👨‍💻 Author
 

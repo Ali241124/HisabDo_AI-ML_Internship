@@ -1,0 +1,21 @@
+1. Which model performed better?
+
+The Decision Tree model performed better than Logistic Regression. It achieved 100% Accuracy, Precision, Recall, and F1 Score, while Logistic Regression achieved 95% Accuracy, 94.12% Precision, 100% Recall, and 96.97% F1 Score.
+
+2. Why do you think it performed better?
+
+The Decision Tree model performed better because it was able to learn the patterns in the student performance data more effectively. Decision Trees can capture complex relationships between features, which helped it classify all the test samples correctly. As a result, it achieved perfect evaluation scores on the given dataset.
+
+3. Was the dataset balanced?
+
+The dataset was not perfectly balanced. The test results show that there were 16 students who passed and 4 students who failed, meaning there were more passing students than failing students. Although the imbalance was not extreme, it could still influence the model's performance.
+
+4. What could improve the results?
+
+The results could be improved by:
+
+Collecting a larger dataset with more student records.
+Including additional features such as quiz scores, study hours, attendance history, and previous academic performance.
+Balancing the dataset by increasing the number of failing student records.
+Performing hyperparameter tuning for both models.
+Comparing additional machine learning algorithms such as Random Forest, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN).

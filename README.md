@@ -34,6 +34,13 @@ HisabDo_AI-ML_Internship/
 * Logistic Regression
 * Git
 * GitHub
+* Data Cleaning
+* Feature Selection
+* Feature Scaling
+* Train-Test Split
+* Hyperparameter Tuning using GridSearchCV
+* Compare tuned model with previous model
+
 
 ## 📅 Progress
 
@@ -44,7 +51,8 @@ HisabDo_AI-ML_Internship/
 | Day 3 | Student Performance Analysis      |    ✅   |
 | Day 4 | Student Performance Prediction    |    ✅   |
 | Day 5 | Student Performance Prediction - 2|    ✅   |
-| Day 6 | Coming Soon                       |    ⏳   |
+| Day 6 | Student Performance Prediction - 3|    ✅   |
+| Day 7 | Coming Soon                       |    ⏳   |
 
 ## 👨‍💻 Author
 

@@ -33,6 +33,8 @@ HisabDo_AI-ML_Internship/
 * openpyxl
 * Logistic Regression
 * Git
+* Fast API
+* Flask
 * GitHub
 * Data Cleaning
 * Feature Selection
@@ -52,7 +54,8 @@ HisabDo_AI-ML_Internship/
 | Day 4 | Student Performance Prediction    |    ✅   |
 | Day 5 | Student Performance Prediction - 2|    ✅   |
 | Day 6 | Student Performance Prediction - 3|    ✅   |
-| Day 7 | Coming Soon                       |    ⏳   |
+| Day 7 | Create API using FastAPI or Flask |    ✅   |
+| Day 8 | Coming Soon                       |    ⏳   |
 
 ## 👨‍💻 Author
 
